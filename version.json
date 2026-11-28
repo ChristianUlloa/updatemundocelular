@@ -1,6 +1,6 @@
 {
-  "version": "2.0.8",
-  "url": "https://github.com/ChristianUlloa/updatemundocelular/releases/download/2.0.8/Sistema.exe",
-  "mensaje": "Actualizacion en linea, el sistema se cerrara automaticamente, debe volver a iniciar el sistema despues de finalizar la actualizacion"
+  "version": "2.0.9",
+  "url": "https://github.com/ChristianUlloa/updatemundocelular/releases/download/2.0.9/Sistema.exe",
+  "mensaje": "Correccion generar listas de precios, modulo accesorios admin"
 }
 
